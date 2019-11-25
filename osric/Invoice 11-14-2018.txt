@@ -1,0 +1,23 @@
+******************** Invoice for Service Request 10000******************************
+Invoice Date:  Wed Nov 14 18:53:26 EST 2018
+Customer Number  : 10000
+Customer Name    : Suzy Que
+Customer Address : 
+123 Mirandaz Ln.
+ 
+Stalingrad, OR  298J78
+DE
+
+
+Please pay to:
+Osric Ormondsey
+Suite 16, Kronborg Castle
+Helsingor, Sjaelland
+Denmark
+(No C.O.D.s)
+
+
+Total Day Blocks billed:  3	$1440
+Total Day Blocks billed:  5	$4800
+Total Amount Due: $6240
+Due Date:		    Thu Feb 29 20:00:00 EST 1996
